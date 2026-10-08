@@ -8,7 +8,7 @@ Installers:
     Scope: machine
     PackageFamilyName: C7E250C2-5AB3-4BD6-8DD7-14708E00A38B_zb2d6w29f13w6
     InstallerUrl: https://github.com/dan-damit/TechToolbox/releases/download/techshell-v1.0.18/TechShell.msix
-    InstallerSha256: E0EC2B751A70F3CA97A8CC1773946A0E54F7A96FB7E33AB423371D55C6EA5236
+    InstallerSha256: 764F2A5928AC85DB24D1044E058337F64E8926E38FFBCC6F41CEDC15312AC42C
 ManifestType: installer
 ManifestVersion: 1.10.0
 
